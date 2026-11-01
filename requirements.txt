@@ -1,5 +1,4 @@
-discord.py>=2.3
+discord.py[voice]>=2.3
 psutil
-discord.py[voice]
 yt-dlp
 PyNaCl
