@@ -1,4 +1,5 @@
-discord.py[voice]>=2.3
-psutil
+discord.py[voice]>=2.4,<3
 yt-dlp
 PyNaCl
+psutil
+discord-ext-voice-recv
