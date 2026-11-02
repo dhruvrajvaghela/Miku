@@ -1,5 +1,7 @@
-discord.py[voice]>=2.4,<3
-yt-dlp[default]
+discord.py[voice]
 PyNaCl
-psutil
+davey
+yt-dlp[default]
 discord-ext-voice-recv
+numpy
+psutil
