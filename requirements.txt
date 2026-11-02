@@ -1,7 +1,9 @@
-discord.py[voice]
+# EXPERIMENTAL / UNTESTED: use only on a separate test service, not your main bot.
+# This fork of discord-ext-voice-recv claims DAVE (Discord voice encryption) decryption support.
+# It installs its own discord.py fork, so do NOT also list discord.py here.
+git+https://github.com/zacker150/discord-ext-voice-recv
+davey>=0.1.6,<0.2
 PyNaCl
-davey
 yt-dlp[default]
-discord-ext-voice-recv
 numpy
 psutil
